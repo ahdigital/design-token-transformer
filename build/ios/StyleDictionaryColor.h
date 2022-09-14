@@ -4,16 +4,16 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 10:51:41 GMT
+// Generated on Wed, 14 Sep 2022 14:53:18 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorColorBrandOrange,
-ColorColorBrandBlue,
-ColorColorBrandGreen,
-ColorColorBrandOchre
+ColorBrandOrange,
+ColorBrandBlue,
+ColorBrandGreen,
+ColorBrandOchre
 };
 
 @interface StyleDictionaryColor : NSObject
