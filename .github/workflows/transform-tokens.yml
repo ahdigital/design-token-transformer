@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: setThemeName
         run: |
-          echo "::set-env name=themeName::theme-2"
+          echo "themeName=theme-2" >> $GITHUB_ENV
       # this lets us work in the actual repository 
       - uses: actions/checkout@master
       # if the folder named "tokens" does not exist, create it
