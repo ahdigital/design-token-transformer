@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@master
       # replace . in filename with / 
       - name: Set selected color
-        run: echo ::set-output name=FOLDER::$(echo ${github.event.head_commit.message}
+        run: echo ::set-output name=FOLDER::$(echo ${github.event.head_commit.message})
         id: folder-location
       # if the folder named "tokens" does not exist, create it
       - name: mkdir "tokens" directory
