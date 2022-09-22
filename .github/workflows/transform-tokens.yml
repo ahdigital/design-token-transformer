@@ -18,6 +18,7 @@ jobs:
       # replace . in filename with / 
       - name: Set selected color
         run: echo '::set-output name=SELECTED_COLOR::green'
+        id: random-color-generator
       # if the folder named "tokens" does not exist, create it
       - name: mkdir "tokens" directory
         # change tokens here (and in line 32) if you want to use a differently named folder 
