@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Thu, 22 Sep 2022 08:47:58 GMT
+-->
+<resources>
+  <color name="color_brand_secondary">#ff011946</color>
+  <color name="color_brand_primary">#ff2c94be</color>
+  <color name="color_theme_10">#ffeff8fd</color>
+  <color name="color_theme_20">#ffc5e8f9</color>
+  <color name="color_theme_30">#ff76cbf2</color>
+  <color name="color_theme_40">#ff00b7f1</color>
+  <color name="color_theme_50">#ff009cce</color>
+  <color name="color_theme_60">#ff007fa9</color>
+  <color name="color_theme_70">#ff006283</color>
+  <color name="color_theme_80">#ff004259</color>
+  <color name="color_theme_90">#ff002b3b</color>
+  <color name="color_theme_100">#ff001d29</color>
+  <color name="color_neutral_gray_10">#fff6f6f6</color>
+  <color name="color_neutral_gray_20">#ffe1e1e1</color>
+  <color name="color_neutral_gray_30">#ffbebebe</color>
+  <color name="color_neutral_gray_40">#ffa8a8a8</color>
+  <color name="color_neutral_gray_50">#ff8f8f8f</color>
+  <color name="color_neutral_gray_60">#ff747474</color>
+  <color name="color_neutral_gray_70">#ff595959</color>
+  <color name="color_neutral_gray_80">#ff3c3c3c</color>
+  <color name="color_neutral_gray_90">#ff262626</color>
+  <color name="color_neutral_gray_100">#ff191919</color>
+  <color name="color_neutral_steel_10">#fff1f7ff</color>
+  <color name="color_neutral_steel_20">#ffd9e3ef</color>
+  <color name="color_neutral_steel_30">#ffb6bfcb</color>
+  <color name="color_neutral_steel_40">#ff9fa9b4</color>
+  <color name="color_neutral_steel_50">#ff87909b</color>
+  <color name="color_neutral_steel_60">#ff6d7580</color>
+  <color name="color_neutral_steel_70">#ff525a65</color>
+  <color name="color_neutral_steel_80">#ff353d46</color>
+  <color name="color_neutral_steel_90">#ff202730</color>
+  <color name="color_neutral_steel_100">#ff131a22</color>
+  
+</resources>
