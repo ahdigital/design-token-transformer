@@ -17,12 +17,12 @@ jobs:
       - uses: actions/checkout@master
       # replace . in filename with / 
       - name: Set selected color
-        run: echo '::set-output name=FOLDER::green'
+        run: echo '::set-output name=FOLDER::${{github.event.head_commit.message}}'
         id: folder-location
       # if the folder named "tokens" does not exist, create it
       - name: mkdir "tokens" directory
         # change tokens here (and in line 32) if you want to use a differently named folder 
-        run: 'mkdir -p ${ github.event.head_commit.message }'
+        run: 'mkdir -p ${{ steps.folder-location.outputs.FOLDER }}'
       # this creates a json file from the stringified json from the request body
       - name: create json from request body
         id: create-json
