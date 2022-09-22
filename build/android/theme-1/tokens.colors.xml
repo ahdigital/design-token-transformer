@@ -2,10 +2,10 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 22 Sep 2022 10:10:20 GMT
+  Generated on Thu, 22 Sep 2022 18:37:15 GMT
 -->
 <resources>
-  <color name="color_brand_primary">#fff55a00</color>
+  <color name="color_brand_primary">#fff500eb</color>
   <color name="color_brand_secondary">#ff471800</color>
   <color name="color_theme_10">#fffef4f0</color>
   <color name="color_theme_20">#fffcd9cc</color>
