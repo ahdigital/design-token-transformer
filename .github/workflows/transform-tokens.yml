@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@master
       # replace . in filename with / 
       - name: Set the file path where we want tokens to be stored
-        run: echo TOKEN_PATH=github.event_name
+        run: echo TOKEN_PATH=${{github.event_name}}
       # if the folder named "tokens" does not exist, create it
       - name: mkdir "tokens" directory
         # change tokens here (and in line 32) if you want to use a differently named folder 
