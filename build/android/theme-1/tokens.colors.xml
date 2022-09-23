@@ -2,21 +2,21 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 23 Sep 2022 08:17:28 GMT
+  Generated on Fri, 23 Sep 2022 08:21:35 GMT
 -->
 <resources>
-  <color name="color_brand_primary">#ff2cbe43</color>
-  <color name="color_brand_secondary">#ff463b01</color>
-  <color name="color_theme_10">#ffeff8fd</color>
-  <color name="color_theme_20">#ffc5e8f9</color>
-  <color name="color_theme_30">#ff76cbf2</color>
-  <color name="color_theme_40">#ff00b7f1</color>
-  <color name="color_theme_50">#ff009cce</color>
-  <color name="color_theme_60">#ff007fa9</color>
-  <color name="color_theme_70">#ff006283</color>
-  <color name="color_theme_80">#ff004259</color>
-  <color name="color_theme_90">#ff002b3b</color>
-  <color name="color_theme_100">#ff001d29</color>
+  <color name="color_brand_primary">#fff55a00</color>
+  <color name="color_brand_secondary">#ff471800</color>
+  <color name="color_theme_10">#fffef4f0</color>
+  <color name="color_theme_20">#fffcd9cc</color>
+  <color name="color_theme_30">#fff6a98c</color>
+  <color name="color_theme_40">#fff4845a</color>
+  <color name="color_theme_50">#ffe95c1a</color>
+  <color name="color_theme_60">#ffbc4d1d</color>
+  <color name="color_theme_70">#ff903c18</color>
+  <color name="color_theme_80">#ff612812</color>
+  <color name="color_theme_90">#ff40190a</color>
+  <color name="color_theme_100">#ff310b00</color>
   <color name="color_neutral_gray_10">#fff6f6f6</color>
   <color name="color_neutral_gray_20">#ffe1e1e1</color>
   <color name="color_neutral_gray_30">#ffbebebe</color>
