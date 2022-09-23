@@ -4,24 +4,24 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 22 Sep 2022 18:37:15 GMT
+// Generated on Fri, 23 Sep 2022 07:50:12 GMT
 
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#define ColorBrandPrimary [UIColor colorWithRed:0.961f green:0.000f blue:0.922f alpha:1.000f]
-#define ColorBrandSecondary [UIColor colorWithRed:0.278f green:0.094f blue:0.000f alpha:1.000f]
-#define ColorTheme10 [UIColor colorWithRed:0.996f green:0.957f blue:0.941f alpha:1.000f]
-#define ColorTheme20 [UIColor colorWithRed:0.988f green:0.851f blue:0.800f alpha:1.000f]
-#define ColorTheme30 [UIColor colorWithRed:0.965f green:0.663f blue:0.549f alpha:1.000f]
-#define ColorTheme40 [UIColor colorWithRed:0.957f green:0.518f blue:0.353f alpha:1.000f]
-#define ColorTheme50 [UIColor colorWithRed:0.914f green:0.361f blue:0.102f alpha:1.000f]
-#define ColorTheme60 [UIColor colorWithRed:0.737f green:0.302f blue:0.114f alpha:1.000f]
-#define ColorTheme70 [UIColor colorWithRed:0.565f green:0.235f blue:0.094f alpha:1.000f]
-#define ColorTheme80 [UIColor colorWithRed:0.380f green:0.157f blue:0.071f alpha:1.000f]
-#define ColorTheme90 [UIColor colorWithRed:0.251f green:0.098f blue:0.039f alpha:1.000f]
-#define ColorTheme100 [UIColor colorWithRed:0.192f green:0.043f blue:0.000f alpha:1.000f]
+#define ColorBrandPrimary [UIColor colorWithRed:0.173f green:0.745f blue:0.263f alpha:1.000f]
+#define ColorBrandSecondary [UIColor colorWithRed:0.275f green:0.231f blue:0.004f alpha:1.000f]
+#define ColorTheme10 [UIColor colorWithRed:0.937f green:0.973f blue:0.992f alpha:1.000f]
+#define ColorTheme20 [UIColor colorWithRed:0.773f green:0.910f blue:0.976f alpha:1.000f]
+#define ColorTheme30 [UIColor colorWithRed:0.463f green:0.796f blue:0.949f alpha:1.000f]
+#define ColorTheme40 [UIColor colorWithRed:0.000f green:0.718f blue:0.945f alpha:1.000f]
+#define ColorTheme50 [UIColor colorWithRed:0.000f green:0.612f blue:0.808f alpha:1.000f]
+#define ColorTheme60 [UIColor colorWithRed:0.000f green:0.498f blue:0.663f alpha:1.000f]
+#define ColorTheme70 [UIColor colorWithRed:0.000f green:0.384f blue:0.514f alpha:1.000f]
+#define ColorTheme80 [UIColor colorWithRed:0.000f green:0.259f blue:0.349f alpha:1.000f]
+#define ColorTheme90 [UIColor colorWithRed:0.000f green:0.169f blue:0.231f alpha:1.000f]
+#define ColorTheme100 [UIColor colorWithRed:0.000f green:0.114f blue:0.161f alpha:1.000f]
 #define ColorNeutralGray10 [UIColor colorWithRed:0.965f green:0.965f blue:0.965f alpha:1.000f]
 #define ColorNeutralGray20 [UIColor colorWithRed:0.882f green:0.882f blue:0.882f alpha:1.000f]
 #define ColorNeutralGray30 [UIColor colorWithRed:0.745f green:0.745f blue:0.745f alpha:1.000f]
