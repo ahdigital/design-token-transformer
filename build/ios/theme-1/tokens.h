@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 12 Oct 2022 08:59:53 GMT
+// Generated on Wed, 12 Oct 2022 12:53:44 GMT
 
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
 #define ColorBrandPrimary [UIColor colorWithRed:0.961f green:0.345f blue:0.000f alpha:1.000f]
-#define ColorBrandSecondary [UIColor colorWithRed:0.471f green:0.035f blue:0.812f alpha:1.000f]
+#define ColorBrandSecondary [UIColor colorWithRed:0.278f green:0.094f blue:0.000f alpha:1.000f]
 #define ColorTheme10 [UIColor colorWithRed:0.996f green:0.957f blue:0.941f alpha:1.000f]
 #define ColorTheme20 [UIColor colorWithRed:0.988f green:0.851f blue:0.800f alpha:1.000f]
 #define ColorTheme30 [UIColor colorWithRed:0.965f green:0.663f blue:0.549f alpha:1.000f]
